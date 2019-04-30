@@ -1,0 +1,40 @@
+./ArcFaceFR-master/model/-0001.params
+./ArcFaceFR-master/model/-0002.params
+./ArcFaceFR-master/model/-0003.params
+./ArcFaceFR-master/model/-0004.params
+./ArcFaceFR-master/model/-0005.params
+./ArcFaceFR-master/model/-0006.params
+./ArcFaceFR-master/model/-0007.params
+./ArcFaceFR-master/model/-0008.params
+./ArcFaceFR-master/model/-0009.params
+./ArcFaceFR-master/model/-0010.params
+./ArcFaceFR-master/model/-0011.params
+./ArcFaceFR-master/model/-0012.params
+./ArcFaceFR-master/model/-0013.params
+./ArcFaceFR-master/model/-0014.params
+./ArcFaceFR-master/model/-0015.params
+./ArcFaceFR-master/model/-0016.params
+./ArcFaceFR-master/model/-0017.params
+./ArcFaceFR-master/model/-0018.params
+./ArcFaceFR-master/model/-0019.params
+./ArcFaceFR-master/model/-0020.params
+./ArcFaceFR-master/model/-0021.params
+./ArcFaceFR-master/model/-0022.params
+./ArcFaceFR-master/model/-0023.params
+./ArcFaceFR-master/model/-0024.params
+./ArcFaceFR-master/model/-0025.params
+./ArcFaceFR-master/model/-0026.params
+./ArcFaceFR-master/model/-0027.params
+./ArcFaceFR-master/model/-0028.params
+./ArcFaceFR-master/model/-0029.params
+./ArcFaceFR-master/models/gamodel-r50/model-0000.params
+./ArcFaceFR-master/models/model-r100-ii/fac3-0010.params
+./ArcFaceFR-master/models/model-r100-ii/model-0000.params
+./ArcFaceFR-master/src/all pickl/employeeImgFeatures.pickle
+./ArcFaceFR-master/src/cafe.mp4
+./ArcFaceFR-master/src/CG employees/train3/images.rec
+./ArcFaceFR-master/src/CG employees/train8/images.rec
+./ArcFaceFR-master/src/CG employees/train8/v1/images.rec
+./ArcFaceFR-master/src/CG employees/train8/V2/images.rec
+./ArcFaceFR-master/venv/Lib/site-packages/numpy/.libs/libopenblas.IPBC74C7KURV7CB2PKT5Z5FNR3SIBV4J.gfortran-win_amd64.dll
+./ArcFaceFR-master/venv/Lib/site-packages/scipy/extra-dll/libopenblas.IPBC74C7KURV7CB2PKT5Z5FNR3SIBV4J.gfortran-win_amd64.dll

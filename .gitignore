@@ -1,0 +1,12 @@
+*.bin
+*.jpg
+*.png
+*.jfif
+*.params
+*.rec
+*.tar
+*.pickle
+*.jpeg
+*.peg
+*.caffemodel
+
